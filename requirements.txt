@@ -1,0 +1,10 @@
+langchain-anthropic
+langchain-chroma
+langchain-core
+langchain-text-splitters
+python-dotenv
+pypdf
+sentence-transformers
+numpy
+streamlit
+jupyter
