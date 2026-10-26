@@ -4,7 +4,7 @@ An AI assistant that answers customer questions about a French bank's fees, card
 
 > ⚠️ **Demonstration project, not affiliated with BNP Paribas.** The answers are based on public documents and are not financial advice.
 
-**Live demo:** _(add your Streamlit link here)_
+**Live demo:** https://ai-bank-advisor.streamlit.app/
 
 ---
 
